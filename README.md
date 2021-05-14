@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Zeng Fung. I am currently pursuing my M.S. in Statistics at the University of California, Davis. 
+
+
+- 🌱 I am interested in the field of machine learning, particularly in finding efficient algorithms that run fast and produce desirable results.
+- 🔭 I’m currently working on updating and maintaining [WaveletsExt.jl](https://github.com/UCD4IDS/WaveletsExt.jl), a Julia software package on signal processing that I co-authored under the organization [UCD4IDS](https://github.com/UCD4IDS). 
+
 <!--
 **zengfung/zengfung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
